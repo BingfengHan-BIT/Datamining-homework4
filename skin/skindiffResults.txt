@@ -1,0 +1,49 @@
+-*- fulldata -*-
+===== clf name 【K Nearest Neighbors (KNN)】
+===== train
+roc:0.6042 prn:0.2925
+===== test
+roc:0.5992 prn:0.2878
+
+===== clf name 【Average KNN (avg KNN)】
+===== train
+roc:0.6033 prn:0.2836
+===== test
+roc:0.5989 prn:0.2859
+
+===== clf name 【Principal Component Analysis (PCA)】
+===== train
+roc:0.4502 prn:0.0351
+===== test
+roc:0.4487 prn:0.0342
+
+===== clf name 【Minimum Covariance Determinant (MCD)】
+===== train
+roc:0.8918 prn:0.5884
+===== test
+roc:0.891 prn:0.5907
+
+===== clf name 【Cluster-based Local Outlier Factor (CBLOF)】
+===== train
+roc:0.6572 prn:0.3239
+===== test
+roc:0.659 prn:0.3251
+
+===== clf name 【Feature Bagging】
+===== train
+roc:0.5663 prn:0.2423
+===== test
+roc:0.57 prn:0.2442
+
+===== clf name 【Histogram-base Outlier Detection (HBOS)】
+===== train
+roc:0.5917 prn:0.1673
+===== test
+roc:0.5931 prn:0.1841
+
+===== clf name 【Isolation Forest】
+===== train
+roc:0.6574 prn:0.0913
+===== test
+roc:0.6559 prn:0.091
+
