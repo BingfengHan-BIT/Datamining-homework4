@@ -27,8 +27,8 @@ The last week homework for dataming
 
 ## Analysis reports html
 > wine
-1. [/wine/wineDiffShow.html]()
-2. [/wine/wineBenchmarkShow.html]()
+1. [/wine/wineDiffShow.html](https://bingfenghan-bit.github.io/Datamining-homework4/wine/wineDiffShow.html)
+2. [/wine/wineBenchmarkShow.html](https://bingfenghan-bit.github.io/Datamining-homework4/wine/wineBenchmarkShow.html)
 > skin
-1. [/skin/skinDiffShow.html]()
-2. [/skin/skinBenchmarkShow.html]()
+1. [/skin/skinDiffShow.html](https://bingfenghan-bit.github.io/Datamining-homework4/skin/skinDiffShow.html)
+2. [/skin/skinBenchmarkShow.html](https://bingfenghan-bit.github.io/Datamining-homework4/skin/skinBenchmarkShow.html)
